@@ -5,4 +5,5 @@ Uygulama dosyaları Andrew NG Deep Learning Specialization ve Supervised Machine
 Linear_Regression dosyası içerisindeki uygulamalar ==> Supervised Machine Learning Regression Week1 uygulaması
  
 https://www.coursera.org/learn/machine-learning
+
 https://www.coursera.org/specializations/deep-learning#courses
